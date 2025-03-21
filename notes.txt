@@ -1,0 +1,53 @@
+How To Become a FrontDeveloper ?
+
+Stage 1: 
+
+Html => Study important concepts only => [10 Hours -you have to spend 2 Weeks]
+
+CSS => Study important concepts only => [20 Hours -you have to Spend 4 Weeks]
+
+JavaScript => you have to Study upto Intermediate Level => [30 Hours- you have to Spend 8 Weeks]
+
+TypesScript(Optional) => watch YouTube tutorial Recommended
+
+Stage 2 :
+
+Git => watch YouTube tutorial Recommended 
+
+GitHub => watch YouTube tutorial Recommended
+
+Projects => Create Projects like todo App , Weather App etc. 
+
+Deployement(Netlify or Versel) => watch YouTube tutorial Recommended
+
+Satge 3 :
+
+Learn CSS FrameWorks - Bootstrap , TailWindCSS , MaterialUI
+
+Learn SASS - CSS Preprocessor(Optional)
+
+CSS Responsive
+
+Lern JavaScript FrameWorks - React , Angular ,Vue (Choose any one of this Frameworks);
+
+Satge 4 :
+
+projects => Create Projects using JavaScript and CSS FrameWorks 
+
+NPM and yarn
+
+
+Stage 5:
+
+Portfolio => Create your Own Portfolio with 4 Front End Projects
+
+Resume => Create a Resume using online portal NovaResume or OverLeaf
+
+Sateg 6 :
+
+create LinkedIn or any job portal Account  and Apply Job 
+
+Note: Dont Focus FullStack (MERN or MEAN ) at the beginner Level
+      
+      Get More Skills FrontEnd Side then you can switch your carrier as a Full Stack Developer. 
+      
